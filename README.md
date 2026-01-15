@@ -1,18 +1,18 @@
 👋 Hi, I’m Eduardo!
-💻 Junior Full Stack Developer focused on React, Next.js, and Node.js.
-I’m currently building practical projects to grow as a developer and build a solid portfolio.
+💻 Junior Full Stack Developer specializing in React, Next.js, and Node.js.
+I’m currently building real-world projects to strengthen my skills and develop a solid, production-ready portfolio.
 
 🔗 Portfolio: https://eduardofsanto.github.io/
 
 🚀 Featured projects
-VagaFlow – platform for companies to receive and manage résumés
-PodPedir – order management system (full stack)
-Portfolio – personal website with projects and contact
+VagaFlow – platform that helps companies receive and manage résumés efficiently
+PodPedir – full stack order management system
+Portfolio – personal website showcasing projects and contact information
 
 🧰 Technologies
 Front-end: React, Next.js, Tailwind CSS
 Back-end: Node.js, REST APIs
-Database: Prisma + SQLite (evolving to PostgreSQL)
+Databases: Prisma + SQLite (migrating to PostgreSQL)
 Tools: Git, GitHub
 
 📫 Contact
