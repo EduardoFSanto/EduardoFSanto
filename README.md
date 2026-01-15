@@ -1,4 +1,4 @@
-Hi, I’m Eduardo!
+👋 Hi, I’m Eduardo!
 💻 Junior Full Stack Developer focused on React, Next.js, and Node.js.
 I’m currently building practical projects to grow as a developer and build a solid portfolio.
 
