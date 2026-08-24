@@ -12,7 +12,7 @@ I’m currently building real-world projects to strengthen my skills and develop
 🧰 **Technologies**
 - **Front-end:** React, Next.js, Tailwind CSS  
 - **Back-end:** Node.js, REST APIs  
-- **Databases:** Prisma + SQLite (migrating to PostgreSQL)  
+- **Databases:** Prisma + PostgreSQL 
 - **Tools:** Git, GitHub  
 
 📫 **Contact**
